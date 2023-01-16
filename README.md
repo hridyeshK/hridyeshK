@@ -5,7 +5,6 @@
 [LinkedIn](https://in.linkedin.com/in/hridyesh-khandelwal-16b8a119a)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hridyeshK&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
