@@ -1,5 +1,4 @@
 ### Hi there, I am Hridyesh 👋
-<strong> I'm a web developer and a Machine Learning enthusiast. </strong>
 
 [StackOverflow](https://stackoverflow.com/users/20300609/hridyeshk?tab=profile) •
 [LinkedIn](https://in.linkedin.com/in/hridyesh-khandelwal-16b8a119a)
